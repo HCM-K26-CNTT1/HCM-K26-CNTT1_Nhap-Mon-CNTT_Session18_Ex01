@@ -67,7 +67,7 @@ Hậu quả: DNS không tìm thấy tên miền phù hợp nên trình duyệt b
 
 ## 1.5. Hình ảnh lỗi DNS
 
-![Lỗi DNS](images/01-dns-error.png)
+file: 01-dns-error.png
 
 Hình 1. Trình duyệt báo lỗi DNS khi nhập sai tên miền.
 
@@ -94,7 +94,7 @@ Hình 1. Trình duyệt báo lỗi DNS khi nhập sai tên miền.
 
 ## 2.3. Hình ảnh kiểm tra Network
 
-![Network](images/02-network-tab.png)
+file: 02-network-tab.png
 
 Hình 2. Tab Network dùng để theo dõi các yêu cầu mạng.
 
@@ -111,7 +111,7 @@ Hình 2. Tab Network dùng để theo dõi các yêu cầu mạng.
 
 ## 2.5. Hình ảnh kiểm tra HTTP Status Code
 
-![HTTP Status](images/03-http-status.png)
+file: images/03-http-status.png
 
 Hình 3. Kiểm tra mã HTTP Status Code trong Headers → General.
 
